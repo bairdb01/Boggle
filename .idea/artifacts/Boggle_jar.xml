@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Boggle:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Boggle_jar</output-path>
+    <root id="archive" name="Boggle.jar">
+      <element id="module-output" name="Boggle" />
+    </root>
+  </artifact>
+</component>
